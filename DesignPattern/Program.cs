@@ -16,8 +16,8 @@ namespace DesignPattern
     class Program
     {
         static void Main(string[] args)
-        {
-            /*
+        {  
+            /******
             Memoization mn = new Memoization();
             Console.WriteLine(mn.fibonaci(40));
             Console.ReadLine();
