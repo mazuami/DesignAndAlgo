@@ -10,7 +10,7 @@ using System.Xml.Serialization;
 
 
 // A design pattern that can be used to between two incompatible classes to interact with each other by converting the interface of 
-// one class to interface of another class 
+// one class to interface of another class -----
 
 
 namespace AdapterDesignPattern
